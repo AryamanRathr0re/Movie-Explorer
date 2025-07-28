@@ -1,0 +1,16 @@
+[
+  {
+    "Title": "Dummy Movie One",
+    "Year": "2020",
+    "imdbID": "tt0000001",
+    "Type": "movie",
+    "Poster": "https://via.placeholder.com/250"
+  },
+  {
+    "Title": "Dummy Movie Two",
+    "Year": "2021",
+    "imdbID": "tt0000002",
+    "Type": "movie",
+    "Poster": "https://via.placeholder.com/250"
+  }
+]
